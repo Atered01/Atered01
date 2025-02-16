@@ -1,12 +1,12 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Fernando!
+# 👋 Seja bem vindo ao perfil do Github.
+## Meu nome é Fernando!
 
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
           
 
-## Contacts:
+## Contato:
 
 <div>
 <a href="https://instagram.com/fernandoljpr2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/fernando-ramalho-programador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>    
 
-<div>
-<a href="https://github.com/Atered_01">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atered01&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Atered01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Status:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atered01&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+          
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Atered01&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
