@@ -1,5 +1,7 @@
 # 👋 Seja bem vindo ao perfil do Github.
-## Meu nome é Fernando!
+
+## Quem eu sou?
+Olá, me chamo Fernando e gosto de tecnologia e suas ramificações. Quando criança eu sempre tive a curiosidade de como funcionava um computador, a partir dessa curiosidade eu decidi entrar na area da tecnologia. Atulamente eu estou cursando Análise e Desenvolvimento de Sistemas na faculdade ENIAC e sonho em me tornar um excelente programador um dia.
 
 ## Ferramentas e Tecnologias
 
@@ -9,6 +11,7 @@
 ## Contato:
 
 <div>
+<a href="https://web.dio.me/users/fernandoluisjasse21"><img loading="lazy" src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></a>      
 <a href="https://instagram.com/fernandoljpr2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "fernandoluisjasse21@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fernando-ramalho-programador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
