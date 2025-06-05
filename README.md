@@ -1,17 +1,17 @@
-# 👋 Seja bem vindo ao perfil do Github.
+# 👋 Welcome to my Profile
 
-## Quem eu sou?
-Olá, me chamo Fernando e gosto de tecnologia e suas ramificações. Quando criança eu sempre tive a curiosidade de como funcionava um computador, a partir dessa curiosidade eu decidi entrar na area da tecnologia. Atulamente eu estou cursando Análise e Desenvolvimento de Sistemas na faculdade ENIAC e sonho em me tornar um excelente programador um dia.
+## Who Am I?
+Hi, my name is Fernando, and I love technology and its various branches. As a child, I was always curious about how computers worked, and this curiosity led me to pursue a career in technology. I'm currently studying Systems Analysis and Development at ENIAC college, and I dream of becoming an excellent programmer one day.
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
           
 
-## Contato:
+## Contact:
 
 <div>
 <a href="https://web.dio.me/users/fernandoluisjasse21"><img loading="lazy" src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></a>      
