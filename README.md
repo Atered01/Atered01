@@ -1,7 +1,7 @@
 # 👋 Welcome to my Profile
 
 ## Who Am I?
-Hi, my name is Fernando, and I love technology and its various branches. As a child, I was always curious about how computers worked, and this curiosity led me to pursue a career in technology. I'm currently studying Systems Analysis and Development at ENIAC college, and I dream of becoming an excellent programmer one day.
+Hi, my name is Fernando, and I love technology and its various branches. As a child, I was always curious about how computers worked, and this curiosity led me to pursue a career in technology. I'm currently studying Systems Analysis and Development at ENIAC college in Brazil., and I dream of becoming an excellent programmer one day.
 
 ## Tools and Technologies
 
