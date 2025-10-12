@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/ba/3e/74/ba3e74fca9813417524309b7d89c5f2f.gif"  />
 
 ### ⚙️ Tecnologias que utilizo no dia a dia
 
