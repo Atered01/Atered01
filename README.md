@@ -1,25 +1,72 @@
-# 👋 Welcome to my Profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=26618D&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%81;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 
-## Who Am I?
-Hi, my name is Fernando, and I love technology and its various branches. As a child, I was always curious about how computers worked, and this curiosity led me to pursue a career in technology. I'm currently studying Systems Analysis and Development at ENIAC college in Brazil., and I dream of becoming an excellent programmer one day.
+# 👋 Olá, eu sou o **Fernando Ramalho**
+💻 Desenvolvedor **Back-End** apaixonado por tecnologia, boas práticas e soluções escaláveis.  
+🚀 Trabalho com **Java**, **C#**, **Spring**, **Quarkus** e **.NET**, construindo APIs robustas e eficientes.  
+☁️ Explorando cada vez mais o mundo da **Computação em Nuvem (OCI)**.
 
-## Tools and Technologies
+---
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-          
-          
+<div align="center">
+  <a href="https://github.com/Atered01">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Atered01&show_icons=true&theme=tokyonight" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atered01&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
 
-## Contact:
+---
 
-<div>      
-<a href="https://instagram.com/fernandoljpr2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fernando-ramalho-programador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>    
+<img align="right" height="150" src="https://i.pinimg.com/originals/c0/6c/2b/c06c2b9f16567b653e62bea9698a7993.gif"  />
 
-## Status:
+### ⚙️ Tecnologias que utilizo no dia a dia
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atered01&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-          
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Atered01&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="30" alt="quarkus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernando-ramalho-programador" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/ferandoljpr2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+</div>
+
+---
+
+### 🐍 Minhas contribuições
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atered01/Atered01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atered01/Atered01/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Atered01/Atered01/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+⭐ **“Código limpo, propósito claro e evolução constante.”**
