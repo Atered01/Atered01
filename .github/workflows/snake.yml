@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
-  workflow_dispatch: # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,18 +12,21 @@ jobs:
       - name: Checkout repo content
         uses: actions/checkout@v4
 
+      # SVG Light (claro)
       - name: Generate Snake (light)
         uses: Platane/snk@v3
         with:
           github_user_name: Atered01
           outputs: dist/github-contribution-grid-snake.svg
+          palette: '#fff,#eee,#ddd,#39d353,#0ca5e9,#000,#39d353,#39d353'
 
+      # SVG Dark (escuro)
       - name: Generate Snake (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: Atered01
           outputs: dist/github-contribution-grid-snake-dark.svg
-          palette: '#222,#444,#8B949E,#39d353,#39d353,#fff,#39d353,#39d353'
+          palette: '#0d1117,#161b22,#30363d,#39d353,#0ca5e9,#fff,#39d353,#39d353'
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
